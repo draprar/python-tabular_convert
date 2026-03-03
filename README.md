@@ -91,3 +91,9 @@ pytest
 ```
 
 CI runs automatically on push and pull requests.
+
+---
+
+## License
+
+MIT License.
